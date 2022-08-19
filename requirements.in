@@ -1,0 +1,14 @@
+django
+djangorestframework
+markdown
+django-filter
+djangorestframework-simplejwt
+django-cors-headers
+djoser
+django-extensions
+python-dotenv
+
+# black
+# rich
+# jupyter
+# flake8
