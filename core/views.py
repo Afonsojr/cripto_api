@@ -1,8 +1,9 @@
 # from django.contrib.auth.models import User
-from rest_framework import viewsets, generics
-from rest_framework import permissions
-from core.serializers import TokenSerializer
 from django_filters.rest_framework import DjangoFilterBackend
+from rest_framework import generics, permissions, viewsets
+
+from core.serializers import TokenSerializer
+
 from .models import Token
 
 
